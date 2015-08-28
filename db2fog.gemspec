@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ">=1.8.7"
 
   s.add_dependency("rails", "~> 4.1")
-  s.add_dependency("activerecord", "~> 3.0")
+  s.add_dependency("activerecord", "~> 4.1")
   s.add_dependency("fog", "~> 1.0")
 
   s.add_development_dependency("rake")
